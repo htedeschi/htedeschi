@@ -51,6 +51,10 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=htedeschi&show_icons=true&hide_border=true" />
 
+### Checkout my latest project!
+[![tradier-dotnet-client](https://github-readme-stats.vercel.app/api/pin/?username=vitali-karmanov&repo=tradier-dotnet-client&theme=dark)](https://github.com/vitali-karmanov/tradier-dotnet-client)
+
+
 [website]: https://henriquetedeschi.com
 [github]: https://github.com/htedeschi
 [twitter]: https://twitter.com/tedeschioficial
