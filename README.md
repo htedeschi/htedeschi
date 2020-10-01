@@ -40,7 +40,7 @@
 <img align="left" alt="Heroku" width="26px" src="https://www.logolynx.com/images/logolynx/eb/ebaa693ae4360bf919ad005ac749064e.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-
+<hr />
 <br />
 
 ### Checkout my latest project!
