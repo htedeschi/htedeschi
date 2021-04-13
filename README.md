@@ -17,6 +17,13 @@
 
 <br />
 
+<hr />
+For almost 3 years I have worked to a multinational company based in Idaho as a **full-stack developer** in the development support team qorking directly wih **C# .NET**. On top of that, I have also worked for other companies abroad the world using **C# in .NET Core, Framework, and Standard**. I have created apps, sites, and libraries with these tools.
+Now, I have been also working with C# in the integration of third party systems alongside a flow-based service.
+I have created and maintained APIs and WebServices with .NET tools and also using Node.JS.
+<hr />
+
+
 ### Languages and Tools:
 #### Excellent Proficiency:
 
@@ -47,7 +54,6 @@
 </thead>
 </table>
 
-
 <br />
 <br />
 
@@ -74,6 +80,11 @@
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Heroku" width="26px" src="https://www.logolynx.com/images/logolynx/eb/ebaa693ae4360bf919ad005ac749064e.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+<br />
+<hr />
+
+Although not using daily, these are the tools I am experienced and higly proficient with.
 
 <hr />
 <br />
