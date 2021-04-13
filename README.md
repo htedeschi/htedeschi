@@ -59,6 +59,8 @@ I have created and maintained APIs and WebServices with .NET tools and also usin
 
 #### High Proficiency:
 
+Although not using daily, these are the tools I am experienced and higly proficient with.
+
 <table class="tg" style="undefined;table-layout: fixed; width: 184px">
     <colgroup>
         <col style="width: 20px" />
@@ -180,9 +182,6 @@ I have created and maintained APIs and WebServices with .NET tools and also usin
     </thead>
 </table>
 
-
-<br />
-Although not using daily, these are the tools I am experienced and higly proficient with.
 <br />
 
 ### Checkout one of my latest projects!
