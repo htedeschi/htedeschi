@@ -18,18 +18,37 @@
 <br />
 
 ### Languages and Tools:
-
 #### Excellent Proficiency:
 
+<table class="tg" style="undefined;table-layout: fixed; width: 184px">
+<colgroup>
+<col style="width: 50px">
+<col style="width: 50px">
+<col style="width: 50px">
+<col style="width: 50px">
+<col style="width: 50px">
+<col style="width: 50px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-0lax"><img align="" alt="C#" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+</th>
+    <th class="tg-0lax"><img align="" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+</th>
+    <th class="tg-0lax"><img align="" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+</th>
+    <th class="tg-0lax"><img align="" alt="Socket.io" height="50px" src="https://socket.io/css/images/logo.svg" />
+</th>
+    <th class="tg-0lax"><img align="" alt="VSCode" width="50px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />
+</th>
+    <th class="tg-0lax"><img align="" alt="VS" height="50px" src="https://winaero.com/blog/wp-content/uploads/2019/02/visual-studio-2019-purple-icon2.png" />
+</th>
+  </tr>
+</thead>
+</table>
+
+
 <br />
-
-<img align="left" alt="C#" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Socket.io" height="50px" src="https://socket.io/css/images/logo.svg" />
-<img align="left" alt="VSCode" width="50px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />
-<img align="left" alt="VS" height="50px" src="https://winaero.com/blog/wp-content/uploads/2019/02/visual-studio-2019-purple-icon2.png" />
-
 <br />
 
 #### High Proficiency:
