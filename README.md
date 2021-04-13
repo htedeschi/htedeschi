@@ -1,10 +1,10 @@
 ### Oi! I'm Henrique Tedeschi ([htedeschi][github]) 👋
 
 ## I'm a Husband, Developer, and from Brazil! 🌎
-- 🎓 I’m on my senior year at BYU-Idaho!
+- 🎓 Graduated from BYU-Idaho in 2021 with 3.94 GPA
 - 📖 I’m currently learning everything 🤣
 - 🙋‍♂️ I’m looking to collaborate with other projects that could help me learn more
-- 🥅 2020 Goals: Contribute more to Open Source projects and improve my skills
+- 🥅 2021 Goals: Contribute more to Open Source projects and improve my skills
 - ⚡ Fun fact: I am an aviation fanatic and currently pursuing my private pilot license ✈
 
 ### Connect with me:
@@ -19,8 +19,24 @@
 
 ### Languages and Tools:
 
+#### Excellent Proficiency:
+
+<br />
+
+<img align="left" alt="C#" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+<img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Socket.io" height="50px" src="https://socket.io/css/images/logo.svg" />
+<img align="left" alt="VSCode" width="50px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />
+<img align="left" alt="VS" height="50px" src="https://winaero.com/blog/wp-content/uploads/2019/02/visual-studio-2019-purple-icon2.png" />
+
+<br />
+
+#### High Proficiency:
+
+<br />
+
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -43,7 +59,7 @@
 <hr />
 <br />
 
-### Checkout my latest project!
+### Checkout one of my latest projects!
 [![tradier-dotnet-client](https://github-readme-stats.vercel.app/api/pin/?username=vitali-karmanov&repo=tradier-dotnet-client&theme=dark)](https://github.com/vitali-karmanov/tradier-dotnet-client)
 
 <br />
