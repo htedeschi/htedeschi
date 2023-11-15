@@ -1,10 +1,10 @@
 ### Oi! I'm Henrique Tedeschi ([htedeschi][github]) 👋
 
 ## I'm a Husband, Developer, and from Brazil! 🌎
-- 🎓 Graduated from BYU-Idaho in 2021 with 3.94 GPA
-- 📖 I’m currently learning everything 🤣
+- 🎓 Pursuing my MBA from UVU (Grad in 2025)
+- 🎓 Graduated from BYU-Idaho in 2021
+- 📖 I’m currently learning everything
 - 🙋‍♂️ I’m looking to collaborate with other projects that could help me learn more
-- 🥅 2021 Goals: Contribute more to Open Source projects and improve my skills
 - ⚡ Fun fact: I am an aviation fanatic and currently pursuing my private pilot license ✈
 
 ### Connect with me:
@@ -18,9 +18,8 @@
 <br />
 
 <hr />
-For almost 3 years I have worked to a multinational company based in Idaho as a **full-stack developer** in the development support team qorking directly wih **C# .NET**. On top of that, I have also worked for other companies abroad the world using **C# in .NET Core, Framework, and Standard**. I have created apps, sites, and libraries with these tools.
-Now, I have been also working with C# in the integration of third party systems alongside a flow-based service.
-I have created and maintained APIs and WebServices with .NET tools and also using Node.JS.
+For almost 12 years I have worked as a full-stack developer. Now I manage a team of developers using C# .NET and Angular 12+.
+On top of that, I have also worked for other companies abroad the world using C# in .NET Core, Framework, and Standard. I have created apps, sites, and libraries with these tools.
 <hr />
 
 
@@ -44,7 +43,7 @@ I have created and maintained APIs and WebServices with .NET tools and also usin
 </th>
     <th class="tg-0lax"><img align="" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 </th>
-    <th class="tg-0lax"><img align="" alt="Socket.io" height="50px" src="https://socket.io/css/images/logo.svg" />
+    <th class="tg-0lax"><img align="" alt="Socket.io" height="50px" src="https://socket.io/images/logo.svg" />
 </th>
     <th class="tg-0lax"><img align="" alt="VSCode" width="50px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />
 </th>
@@ -188,9 +187,6 @@ Although not using daily, these are the tools I am experienced and higly profici
 [![tradier-dotnet-client](https://github-readme-stats.vercel.app/api/pin/?username=vitali-karmanov&repo=tradier-dotnet-client&theme=dark)](https://github.com/vitali-karmanov/tradier-dotnet-client)
 
 <br />
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=htedeschi&show_icons=true&hide_border=true" />
-
 
 [website]: https://henriquetedeschi.com
 [github]: https://github.com/htedeschi
