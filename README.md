@@ -24,7 +24,7 @@ On top of that, I have also worked for other companies abroad the world using C#
 
 
 ### Languages and Tools:
-#### Excellent Proficiency:
+#### Proficiency:
 
 <table class="tg" style="undefined;table-layout: fixed; width: 184px">
 <colgroup>
@@ -49,16 +49,12 @@ On top of that, I have also worked for other companies abroad the world using C#
 </th>
     <th class="tg-0lax"><img align="" alt="VS" height="50px" src="https://winaero.com/blog/wp-content/uploads/2019/02/visual-studio-2019-purple-icon2.png" />
 </th>
+</th>
+    <th class="tg-0lax"><img align="" alt="VS" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+</th>    
   </tr>
 </thead>
 </table>
-
-<br />
-<br />
-
-#### High Proficiency:
-
-Although not using daily, these are the tools I am experienced and higly proficient with.
 
 <table class="tg" style="undefined;table-layout: fixed; width: 184px">
     <colgroup>
@@ -79,13 +75,6 @@ Although not using daily, these are the tools I am experienced and higly profici
     </colgroup>
     <thead>
         <tr>
-            <th class="tg-0lax">
-                <img
-                    alt="Angular"
-                    width="26px"
-                    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"
-                />
-            </th>
             <th class="tg-0lax">
                 <img
                     alt="CSS3"
